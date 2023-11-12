@@ -101,3 +101,5 @@ int main()
 //Time complexity: O(nlogn) where n is the number of unique characters.
 //If there are n nodes, extractMin() is called 2*(n – 1) times. 
 //extractMin() takes O(logn) time as it calls minHeapify(). So, overall time complexity is O(nlogn).
+//Space Complexity is O(n) 
+//Where n is the number of Unique Characters
