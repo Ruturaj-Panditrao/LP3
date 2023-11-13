@@ -161,3 +161,5 @@ int main()
     solve(0,n,board);
     if(sol==false) cout<<"No Solution for this Configuration Exists"<<endl;
 }
+
+// Time Complexity : O(N!)
