@@ -1,6 +1,7 @@
 // QuickSort Sorting Algorithm :
 // With Deterministic Partition
-// As Well as Randomized Partition
+// As Well as Randomized Partition 
+// For choosing the Pivot
 
 #include <iostream>
 using namespace std;
