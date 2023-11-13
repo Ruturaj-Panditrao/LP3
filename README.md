@@ -1,4 +1,4 @@
-# LP4
+# LP III
 This Repository contains solutions to all LP4 Assignments :                                                 
 🎯📒Blockchain(BT)                                
 🎯📗Machine Learning(ML)                                      
