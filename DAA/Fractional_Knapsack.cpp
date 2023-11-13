@@ -66,3 +66,6 @@ int main()
 
     cout<<"Maximum Profit Achieved using Greedy Strategy is : "<<ans<<endl;
 }
+
+// Time Complexity : O(N)
+// Space Complexity : O(1)
