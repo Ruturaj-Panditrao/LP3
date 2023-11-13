@@ -1,2 +1,5 @@
 # LP4
-Solutions to all LP4 Assignments, as per SPPU Curriculum
+This Repository contains solutions to all LP4 Assignments,
+Blockchain(BT)
+Machine Learning(ML)
+Design and Analysis of Algorithms(DAA) as per SPPU Curriculum 2019.
