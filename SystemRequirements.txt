@@ -1,0 +1,2 @@
+DAA : C++ GCC Compiler
+Machine Learning : Latest Version of Python, Google Colab / Jupyter Notebooks
